@@ -1,16 +1,21 @@
-### Hola, soy Oscar 👋
-#### 🤖 TSU en Mecatrónica y Automatización | Entusiasta del Hardware
+### Oscar Martinez
+**Engineering Student | Automation & Embedded Systems**
 
-Estudiante en la **Universidad Tecnológica de Matamoros**. Me especializo en crear puentes entre el software y el mundo físico.
+Estudiante de Ingeniería en Mecatrónica en la **Universidad Tecnológica de Matamoros**. Mi enfoque principal es el desarrollo de soluciones escalables que integren hardware y software.
 
-- 🔭 **Actualmente trabajando en:** Integración de Arduino con Python y automatización de procesos.
-- 🌱 **Aprendiendo:** Lógica de programación avanzada, BIM y diseño de circuitos.
-- ⚡ **Intereses:** Hackathons, No Man's Sky y desarrollo de soluciones IoT.
-
-#### 🛠️ Mi Caja de Herramientas
-**Lenguajes:** Python (POO), C++ (Arduino).
-**Hardware:** Microcontroladores, Sensores, Circuitos Electrónicos.
-**Software:** AutoCAD, Revit, Obsidian.
+- 🔭 **Enfoque actual:** Desarrollo de sistemas IoT e integración de Python con microcontroladores (Arduino).
+- 💼 **Objetivo:** Especialización en lógica de programación avanzada y control de sistemas físicos.
+- 🚀 **Intereses:** Automatización, Hackathons y desarrollo de tecnología aplicada.
 
 ---
-📫 **Contáctame:** oscarmartinezgarcia353@gmail.com
+
+### 💻 Stack Tecnológico
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | Python (POO), C++ (Embedded/Arduino) |
+| **Hardware** | Microcontroladores, Sensores, Diseño de Circuitos |
+| **Herramientas** | Git, GitHub, Obsidian |
+
+---
+oscarmartinezgarcia353@gmail.com
