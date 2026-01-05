@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hola, soy Oscar 👋
+#### 🤖 TSU en Mecatrónica y Automatización | Entusiasta del Hardware
 
-<!--
-**oscarmg353/oscarmg353** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante en la **Universidad Tecnológica de Matamoros**. Me especializo en crear puentes entre el software y el mundo físico.
 
-Here are some ideas to get you started:
+- 🔭 **Actualmente trabajando en:** Integración de Arduino con Python y automatización de procesos.
+- 🌱 **Aprendiendo:** Lógica de programación avanzada, BIM y diseño de circuitos.
+- ⚡ **Intereses:** Hackathons, No Man's Sky y desarrollo de soluciones IoT.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Mi Caja de Herramientas
+**Lenguajes:** Python (POO), C++ (Arduino).
+**Hardware:** Microcontroladores, Sensores, Circuitos Electrónicos.
+**Software:** AutoCAD, Revit, Obsidian.
+
+---
+📫 **Contáctame:** oscarmartinezgarcia353@gmail.com
